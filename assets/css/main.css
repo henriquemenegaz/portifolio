@@ -697,8 +697,8 @@ section,
   margin: 0 0 6px 0;
   text-transform: uppercase;
   display: block;
-  font-weight: 600;
-  font-family: var(--heading-font);
+  font-weight: 400;
+  /* font-family: var(--heading-font); */
 }
 
 .skills .progress .skill .val {
@@ -1270,6 +1270,10 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
+/* .starter-section { */
   /* Add your styles here */
+/* } */
+
+.about-figure{  
+  padding-bottom: 20px;
 }
